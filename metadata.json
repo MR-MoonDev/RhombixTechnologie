@@ -1,0 +1,7 @@
+{
+  "name": "MuneebSiddiqui_TodoApp",
+  "description": "A task management app by Muneeb Siddiqui to organize and prioritize your tasks efficiently.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
